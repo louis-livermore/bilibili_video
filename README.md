@@ -1,8 +1,8 @@
-1.第一个py用于bilibili的视频下载，音频下载
+1. bilibili视频下载.py用于bilibili的视频下载，音频下载
 
-2.第二个py用于下载的视频音频合并
+2. bilibili视频合并.py用于下载的视频音频合并
 
-3.需要的python库
+3. 需要的python库
 
     requests
 
@@ -14,7 +14,7 @@
 
     subprocess
   
-4.需要的外部程序
+4. 需要的外部程序
 
     FFmpeg
 
