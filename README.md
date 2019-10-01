@@ -4,18 +4,18 @@
 
 需要的python库
 
-  requests
-  
-  re
-  
-  json
-  
-  os
-  
-  subprocess
+    requests
+
+    re
+
+    json
+
+    os
+
+    subprocess
   
 需要的外部程序
 
-  FFmpeg
-  
-  使用前需要把FFmpeg的路径设为系统变量
+    FFmpeg
+
+    使用前需要把FFmpeg的路径设为系统变量
